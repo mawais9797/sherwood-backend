@@ -12,6 +12,7 @@ use App\Models\Newsletter_model;
 use Illuminate\Support\Facades\DB;
 use PHPMailer\PHPMailer\Exception;
 
+
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
 
